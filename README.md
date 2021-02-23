@@ -9,4 +9,3 @@ Materials covered:
 4. Graphs
 5. Sorting
 6. Minimum Diameter Spanning Trees
-7. 
